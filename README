@@ -1,0 +1,5 @@
+## Goals:
+1. Multi-page form.
+1. Multi-model form.
+1. The model we are saving shall have has_many, belongs_to and has_and_belongs_to_many relationships.
+1. The controller shall be RESTful.
